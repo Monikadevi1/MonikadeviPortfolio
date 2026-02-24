@@ -7,7 +7,7 @@ This project is a portfolio website design created in Figma.
 - Figma
 
 ## Figma Link
-[(Figma Project Link)](https://www.figma.com/design/muWjQKOVdUJ1GoIRoihEkl/Portfolio?node-id=1-2&t=0ZP2WvVxweiw3aDx-1)
+[(Figma Project Link)](https://www.figma.com/design/yMLOkZZPZv1Ck3dz0EjZ4S/Untitled?node-id=0-1&t=DPOfqtfvVIOxeVu4-1)
 
 ## Author
 Monikadevi
